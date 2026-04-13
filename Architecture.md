@@ -13,21 +13,16 @@
   <img src="https://img.shields.io/badge/AI-ElevenLabs_TTS-FF6F00?style=flat" />
 </p>
 
-<p align="center">
-  <a href="https://apps.apple.com/app/falora">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" alt="Download on the App Store" />
-  </a>
-</p>
 
 ---
 
 **Falora** is a production iOS app that blends artificial intelligence with mystical content — coffee fortune reading, tarot spreads, dream interpretation, palm reading, birth charts, and daily horoscopes — wrapped in a social experience with real-time chat rooms, a community feed, and a tiered subscription economy. Built entirely in SwiftUI with 137 Swift files across three languages.
 
 <p align="center">
-  <img src="screenshots/onboarding.png" width="180" />
-  <img src="screenshots/fortune-reading.png" width="180" />
-  <img src="screenshots/feed.png" width="180" />
-  <img src="screenshots/cosmic-match.png" width="180" />
+  <img src="dashboard.PNG" width="180" />
+  <img src="buyCredit.PNG" width="180" />
+  <img src="coffeFortune.PNG" width="180" />
+  <img src="currency.PNG" width="180" />
 </p>
 
 ---
